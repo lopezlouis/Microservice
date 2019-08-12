@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="488b5c83-c6c8-4a4b-a55c-496f701a60d4" name="Default Changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gitignore" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/eureka-client/target/" />
@@ -717,7 +715,7 @@
       <option name="presentableId" value="Default" />
       <updated>1565222051705</updated>
       <workItem from="1565222052851" duration="9828000" />
-      <workItem from="1565555125370" duration="11939000" />
+      <workItem from="1565555125370" duration="11975000" />
     </task>
     <task id="LOCAL-00001" summary="Used Spring-boot &amp; Microservice tools + frameworks such as&#10; &#10; Eureka&#10; Zuul&#10; Ribbon&#10; Spring Actuator">
       <created>1565572636384</created>
@@ -730,7 +728,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21767000" />
+    <option name="totallyTimeSpent" value="21803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
